@@ -1,0 +1,13 @@
+
+
+build :
+  version: "1.0"
+
+accounts:
+  message: "Welcome to ezybank accounts related Prod APIS"
+  contactDetails:
+    name: "Mohammad Product Owner"
+    email: "mm@email.com"
+  onCallSupport:
+    -(453)555-1234
+    -(453)523-1234

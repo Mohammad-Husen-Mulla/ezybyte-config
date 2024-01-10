@@ -1,0 +1,13 @@
+
+
+build :
+  version: "2.0"
+
+accounts:
+  message: "Welcome to ezybank accounts related QA APIS"
+  contactDetails:
+    name: "Smith QA Lead"
+    email: "smith@email.com"
+  onCallSupport:
+    -(666)555-1234
+    -(666)523-1234

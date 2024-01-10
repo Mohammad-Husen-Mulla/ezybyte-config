@@ -1,0 +1,13 @@
+
+
+build :
+  version: "3.0"
+
+cards:
+  message: "Welcome to ezybank cards related local APIS"
+  contactDetails:
+    name: "Mohammad Husen"
+    email: "mm@email.com"
+  onCallSupport:
+    -(777)555-1234
+    -(777)523-1234

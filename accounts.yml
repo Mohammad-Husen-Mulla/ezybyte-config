@@ -1,0 +1,12 @@
+
+build :
+  version: "3.0"
+
+accounts:
+  message: "Welcome to ezybank accounts related local APIS"
+  contactDetails:
+    name: "Mohammad Husen"
+    email: "mm@email.com"
+  onCallSupport:
+    -(555)555-1234
+    -(555)523-1234

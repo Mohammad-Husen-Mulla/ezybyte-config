@@ -6,7 +6,7 @@ build :
 accounts:
   message: "Welcome to ezybank accounts related Prod APIS"
   contactDetails:
-    name: "Mohammad Mulla Product Owner"
+    name: "Mohammad Husen Product Owner"
     email: "mm@email.com"
   onCallSupport:
     -(453)555-1234
